@@ -1,5 +1,7 @@
 # CryptEd - Qt Quick Controls 2 editor app + CMake + vcpkg + static build
 
+![Logo](/logo/logo.png?raw=true "Logo")
+
 This repository contains a modified Qt example (texteditor) that:
 
 * uses both QML and C++
